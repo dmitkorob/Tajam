@@ -1,0 +1,27 @@
+/* Сброс */
+h1, h2, h3, h4, ul, ol, textarea, pre, p, blockquote {
+	margin: 0;
+}
+ul, ol, textarea, td, th, input { 
+	padding: 0;
+}
+body {
+	font-size: 100%;
+}
+pre {
+	white-space: pre-wrap;
+}
+input[type="submit"], input[type="reset"] {
+	cursor: pointer;
+}
+h1,h2, h3, h4 {
+	font-weight: normal;
+	font-size: 100%;
+}
+li {
+	list-style: none;
+	display: list-item;
+}
+table {
+	border-collapse: collapse;
+}
